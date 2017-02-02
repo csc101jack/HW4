@@ -1,2 +1,10 @@
-p {font-size:35px; color:blue;}
-#para2 {color:red}
+p {
+    font-size:35px; color:blue;
+
+    }
+
+#para {
+    color:red;
+
+    }
+    html {background-color:green;}
